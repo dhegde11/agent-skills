@@ -46,6 +46,14 @@ The skill activates automatically when you ask about:
 - SDK setup, debugging, or planning for any AI API integration
 - Anything that involves Anthropic, OpenAI, or Gemini
 
+You can also force it at any time with the slash command:
+
+```
+/live-docs-lookup
+```
+
+Useful when you want a fresh doc check before starting a new feature, or when the skill didn't auto-trigger but you'd like it to.
+
 ## Also available via superpowers
 
 This skill is submitted to [obra/superpowers](https://github.com/obra/superpowers). If you use the superpowers plugin system, you can install it from there.
