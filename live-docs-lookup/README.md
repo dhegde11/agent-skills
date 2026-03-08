@@ -56,7 +56,7 @@ Useful when you want a fresh doc check before starting a new feature, or when th
 
 ## Superpowers compatibility
 
-If you use the [obra/superpowers](https://github.com/obra/superpowers) plugin system, you can install live-docs-lookup separately and it will work alongside it. It will automatically trigger before brainstorming, plan writing, or other SDK-related workflows — so you always have current docs before implementation begins.
+If you use the [obra/superpowers](https://github.com/obra/superpowers) plugin system, you can install live-docs-lookup separately and it will work alongside it. It will automatically trigger before brainstorming, plan writing, or other SDK-related workflows — so plans are built on current docs.
 
 ## Evals
 
